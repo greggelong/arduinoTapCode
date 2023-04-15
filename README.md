@@ -16,3 +16,6 @@ use EF92A 180d analog micro servo.  not the EF90D 360d digital servo, as this on
 
 ![schematic](tapcodeArrayLed.png)
 
+Follow link for more information
+
+https://github.com/greggelong/tapcode
