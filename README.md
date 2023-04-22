@@ -40,5 +40,12 @@ This is like the commputers attentioin span, if the pause between taps is greate
 
 counting the next set of taps
 
+I also have a Javascript version of this encoding taps:
+
+https://github.com/greggelong/tapCodeIn
+
+and live at
+
+https://greggelong.github.io/tapCodeIn
 
 
