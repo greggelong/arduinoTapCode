@@ -1,6 +1,12 @@
 # arduinoTapCode
 a place to hold code and notes for a arduino version of tap code
 
+see installation 
+
+https://youtu.be/eBWl2LzMHhE
+
+
+
 https://www.tinkercad.com/things/8StbBElGs78?sharecode=Hnxz5xLMH15EByGir1Vit3z762ZyBjixj45YVJIc8lU
 
 
